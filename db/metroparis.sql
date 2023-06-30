@@ -2117,7 +2117,7 @@ INSERT INTO `fermata` (`id_fermata`, `nome`, `coordX`, `coordY`) VALUES
 	(589, 'Champ de courses d\'Enghien', 2.29158, 48.979662),
 	(590, 'Ermont Halte', 2.26344, 48.98978),
 	(591, 'Gros Noyer Saint Prix', 2.258864, 48.99709),
-	(592, 'Saint Leu la Forêt', 2.242471, 49.015565),
+	(592, 'Saint Leu la ForÃªt', 2.242471, 49.015565),
 	(593, 'Vaucelles', 2.230438, 49.021274),
 	(594, 'Taverny', 2.221415, 49.02538),
 	(595, 'Bessancourt', 2.209752, 49.03576),
@@ -2229,3 +2229,4 @@ INSERT INTO `linea` (`id_linea`, `nome`, `velocita`, `intervallo`, `colore`) VAL
 /*!40000 ALTER TABLE `linea` ENABLE KEYS */;
 /*!40014 SET FOREIGN_KEY_CHECKS=1 */;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+yelp
